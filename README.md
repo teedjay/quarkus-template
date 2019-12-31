@@ -23,3 +23,8 @@ http://localhost:8080/metrics
 http://localhost:8080/openapi
 http://localhost:8080/swagger-ui
 ```
+
+## Open the JaCoCo code coverage report
+```
+open target/site/jacoco/index.html
+```
