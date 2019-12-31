@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+    <title>XML template</title>
+    <article>Manually selected template for application/xml requests</article>
+    <message>{message}</message>
+</xml>
