@@ -19,6 +19,7 @@ curl -i http://localhost:8080/hello -H "Accept: application/xml"
 ```
 http://localhost:8080/hello
 http://localhost:8080/notfound
+http://localhost:8080/health
 http://localhost:8080/metrics
 http://localhost:8080/openapi
 http://localhost:8080/swagger-ui
