@@ -1,5 +1,9 @@
 # quarkus-template
-Starting template for experimenting with latest Quarkus features
+Starting template for experimenting with latest Quarkus features.
+
+- [x] Qute using both Template and VariantTemplate
+- [x] Mockito mocks installed manully
+- [x] Mockito mocks using @InjectMock
 
 ## Curl to test
 ```
